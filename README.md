@@ -10,3 +10,5 @@ d) Retrospectiva: 3 horas
 4. No arquivo ".gitignore".
 
 5. A pessoa com o cargo de Product Owner realiza o contato entre desenvolvedores e o cliente, de forma a garantir que os objetivos estejam claros. O PO deve manter controle do que se está sendo desenvolvido, definindo metas, planejando e coordenando os Sprints, observando bugs ou possíveis melhorias no produto, relevando e classificando as prioridades do projeto, trabalhando para que o Backlog seja completo (com a priorização de determinadas tarefas) e o produto desenvolvido seja de qualidade.
+
+6. O programa 6 solicita o nome do usuário inicialmente. Após, ele exibe na tela uma série de questão com suas alternativas. Para responder, o usuário deve digitar a maíuscula letra referente à resposta correta (A, B, C, D ou E). No final, o programa exibe a pontuação do usuário.
