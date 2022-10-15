@@ -8,3 +8,5 @@ d) Retrospectiva: 3 horas
 3. Ele ocorreu pois os arquivos não estão sendo monitorados. Para corrigi-lo, basta  usar o comando "git add" + o arquivo que você quer monitorar. Depois disso o commit pode ser feito.
 
 4. No arquivo ".gitignore".
+
+5. A pessoa com o cargo de Product Owner realiza o contato entre desenvolvedores e o cliente, de forma a garantir que os objetivos estejam claros. O PO deve manter controle do que se está sendo desenvolvido, definindo metas, planejando e coordenando os Sprints, observando bugs ou possíveis melhorias no produto, relevando e classificando as prioridades do projeto, trabalhando para que o Backlog seja completo (com a priorização de determinadas tarefas) e o produto desenvolvido seja de qualidade.
