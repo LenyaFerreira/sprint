@@ -14,3 +14,5 @@ d) Retrospectiva: 3 horas
 6. O programa 6 solicita o nome do usuário inicialmente. Após, ele exibe na tela uma série de questão com suas alternativas. Para responder, o usuário deve digitar a maíuscula letra referente à resposta correta (A, B, C, D ou E). No final, o programa exibe a pontuação do usuário.
 
 7. O programa 7 inicialmente solicita o nome de usuário e a senha. O usuário correto de forma a logar no sistema é "Compass" e a senha é "senha123". Se inseridas as informações corretamente, uma mensagem será exibida de acordo com o horário da máquina do usuário.
+
+8. A questão 8 realiza um cálculo sobre o valor de salário inserido.
